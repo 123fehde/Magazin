@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 // ******************** von http auf https umstellen ****************
 // Ein Polyfill für die startsWith-Methode, falls sie nicht vom Browser unterstützt wird
 if (!String.prototype.startsWith) {
@@ -271,4 +271,3 @@ infoDiv.style.color = "#ffffff";
 // Den Button an das Ende des Body-Bereichs anhängen
 document.body.appendChild(button);
 
-</script>
