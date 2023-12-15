@@ -1,4 +1,4 @@
-
+// ohne Scipt-tag
 // ******************** von http auf https umstellen ****************
 // Ein Polyfill für die startsWith-Methode, falls sie nicht vom Browser unterstützt wird
 if (!String.prototype.startsWith) {
